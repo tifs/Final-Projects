@@ -1,0 +1,9 @@
+.half {
+    width: 50%;
+    float: left;
+}
+
+.parent {
+    overflow: hidden;
+}
+}
